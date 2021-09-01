@@ -168,6 +168,9 @@ label {
         height: 30px;
         border-color: red;
     }
+    button:hover{
+    cursor: pointer;
+}
     .popup-modal>button{
         background-color: red;
         width: 80px;
