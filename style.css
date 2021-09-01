@@ -13,6 +13,7 @@
     border-radius: 5px;
     margin: 20px;
     text-align: center;
+    box-shadow: 4px 4px 10px  gray;
 }
 
 hr{
@@ -29,6 +30,7 @@ hr{
     border-radius: 5px;
     margin: 20px;
     text-align: center;
+    box-shadow: 4px 4px 10px  gray;
 }
 
 .todo-2{
@@ -39,6 +41,7 @@ hr{
     border-radius: 5px;
     margin: 20px;
     text-align: center;
+    box-shadow: 4px 4px 10px  gray;
 }
 .text{
     text-align: center;
